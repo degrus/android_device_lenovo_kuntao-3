@@ -205,13 +205,12 @@ TARGET_RIL_VARIANT := caf
 #include device/qcom/sepolicy/sepolicy.mk
 BOARD_SEPOLICY_VERS := 28.0
 
-<<<<<<< HEAD
 # Telephony
 TARGET_PROVIDES_QTI_TELEPHONY_JAR := true
 
 # Vendor Security Patch Level
 VENDOR_SECURITY_PATCH := 2017-11-01
-=======
+
 # GPS
 BOARD_VENDOR_QCOM_GPS_LOC_API_HARDWARE := default
 USE_DEVICE_SPECIFIC_GPS := true
