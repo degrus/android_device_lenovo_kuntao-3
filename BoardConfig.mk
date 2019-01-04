@@ -208,9 +208,6 @@ BOARD_SEPOLICY_VERS := 28.0
 # Telephony
 TARGET_PROVIDES_QTI_TELEPHONY_JAR := true
 
-# Vendor Security Patch Level
-VENDOR_SECURITY_PATCH := 2017-11-01
-
 # GPS
 BOARD_VENDOR_QCOM_GPS_LOC_API_HARDWARE := default
 USE_DEVICE_SPECIFIC_GPS := true
@@ -226,7 +223,6 @@ TARGET_PROVIDES_LIBLIGHT := true
 
 # Security patch level
 VENDOR_SECURITY_PATCH := 2018-12-05
->>>>>>> a280471... kuntao: update other blobs from tissot_sprout
 
 # WiFi
 BOARD_HAS_QCOM_WLAN := true
