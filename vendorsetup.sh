@@ -1,3 +1,3 @@
-add_lunch_combo havoc_kuntao-eng
-add_lunch_combo havoc_kuntao-user
-add_lunch_combo havoc_kuntao-userdebug
+add_lunch_combo liquid_kuntao-eng
+add_lunch_combo liquid_kuntao-user
+add_lunch_combo liquid_kuntao-userdebug

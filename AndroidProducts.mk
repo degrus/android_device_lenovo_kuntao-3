@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_kuntao.mk
+    $(LOCAL_DIR)/liquid_kuntao.mk
